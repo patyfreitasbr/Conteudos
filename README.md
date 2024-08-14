@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu repositório público de conteúdos! Aqui você encontrará 
 
 | Tipo   | Nome    | Lançado | Páginas | Link   |
 |--------|---------|-----|---------|--------|
-| Ebook  | Otimize seu pc acelere o desemprenho| 2024| 20      |[acesse](https://bit.ly/3Aqiogx)
+| Ebook  | Otimize seu pc acelere o desempenho| 2024| 20      |[acesse](https://bit.ly/3Aqiogx)
 
 
 
