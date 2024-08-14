@@ -1,4 +1,4 @@
-# 📚 Repositório de Conteúdos Educacionais
+# 📚 Repositório de conteúdos educacionais
 
 
 Bem-vindo(a) ao meu repositório público de conteúdos! Aqui você encontrará uma coleção de conteúdos educacionais, incluindo guias em PDF, eBooks e outros materiais de aprendizado criados por mim e disponibilizados de forma gratuita.
