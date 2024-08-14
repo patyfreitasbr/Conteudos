@@ -1,7 +1,7 @@
 # 📚 Repositório de Conteúdos Educacionais
 
 
-Bem-vindo ao meu repositório público! Aqui você encontrará uma coleção de conteúdos educacionais, incluindo guias em PDF, eBooks e outros materiais de aprendizado criados por mim e disponibilizados de forma gratuita.
+Bem-vindo(a) ao meu repositório público de conteúdos! Aqui você encontrará uma coleção de conteúdos educacionais, incluindo guias em PDF, eBooks e outros materiais de aprendizado criados por mim e disponibilizados de forma gratuita.
 
 ## 📂Conteúdos Disponíveis
 
