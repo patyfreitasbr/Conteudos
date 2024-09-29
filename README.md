@@ -5,10 +5,13 @@ Bem-vindo(a) ao meu repositório público de conteúdos! Aqui você encontrará 
 
 ## 📂Conteúdos Disponíveis
 
-| Tipo   | Nome    | Lançado | Páginas | Link   |
+| Sobre  | Tipo    | Lançado | Páginas | Link   |
 |--------|---------|-----|---------|--------|
-| Ebook  | Otimize seu pc acelere o desempenho| 2024| 20      |[acesse](https://bit.ly/3Aqiogx)
+|Grupo de estudo Discord|  Discord | 2024| x   |[convite](https://bit.ly/3Aqiogx) ++
+|Cronograma de estudos DEV | Notion page | 2024| 1   |[acesse](https://bit.ly/cronograma-estudos-dev)
+| Otimize seu pc acelere o desempenho| EBOOK|2024| 20      |[acesse](https://bit.ly/3Aqiogx)
 
+++ Caso link de convite tenha expirado [me avise](https://www.instagram.com/patyfreitasbr)
 
 
 ## 📜 Licença de Uso
