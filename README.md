@@ -7,9 +7,9 @@ Bem-vindo(a) ao meu repositório público de conteúdos! Aqui você encontrará 
 
 | Sobre  | Tipo    | Lançado | Páginas | Link   |
 |--------|---------|-----|---------|--------|
-|Grupo de estudo Discord|  Discord | 2024| x   |[convite](https://bit.ly/3Aqiogx) ++
-|Cronograma de estudos DEV | Notion page | 2024| 1   |[acesse](https://bit.ly/cronograma-estudos-dev)
-| Otimize seu pc acelere o desempenho| EBOOK|2024| 20      |[acesse](https://bit.ly/3Aqiogx)
+|Grupo de estudo Discord|  Discord | 2024| x   |<a href="https://discord.gg/HQPU5x4DMD" target="_blank">convite</a> ++
+|Cronograma de estudos DEV | Notion page | 2024| 1   |<a href="https://bit.ly/cronograma-estudos-dev" targer="_blank">acesse</a>
+| Otimize seu pc acelere o desempenho| EBOOK|2024| 20      |<a href="https://bit.ly/3Aqiogx" targer="_blank">acesse</a>
 
 ++ Caso link de convite tenha expirado [me avise](https://www.instagram.com/patyfreitasbr)
 
