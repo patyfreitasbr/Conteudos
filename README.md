@@ -26,7 +26,7 @@ Você tem todo o direito de usar esse material para seu próprio aprendizado. Pr
 ## 📥 Como baixar
 
 1. Clique no link do arquivo  [_Conteúdos Disponíveis_](conteudos-disponiveis)
-2. No canto direito clique no icone *'download raw file'*
+2. Arquivos como PDF acesse e clique no canto direito, clique no icone *'download raw file'*
 
 
 ## 📬 Contato
