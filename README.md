@@ -32,7 +32,5 @@ Você tem todo o direito de usar esse material para seu próprio aprendizado. Pr
 
 👩‍💻 Patrícia Freitas
 
-📬 brpatyfreitas@gmail.com
-
  <div><a href="https://www.linkedin.com/in/patyfreitasbr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
   <a href="https://www.instagram.com/patyfreitasbr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></></div>
